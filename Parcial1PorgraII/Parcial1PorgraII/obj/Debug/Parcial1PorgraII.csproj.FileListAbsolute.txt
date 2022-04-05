@@ -1,0 +1,16 @@
+C:\Users\PC\Documents\CICLO I 2022\PROGRAMACION II\Semana 5 ---- PARCIAL I ----\Martes 22\Parcial Complete\Parcial1PorgraII\Parcial1PorgraII\bin\Debug\Parcial1PorgraII.exe.config
+C:\Users\PC\Documents\CICLO I 2022\PROGRAMACION II\Semana 5 ---- PARCIAL I ----\Martes 22\Parcial Complete\Parcial1PorgraII\Parcial1PorgraII\bin\Debug\Parcial1PorgraII.exe
+C:\Users\PC\Documents\CICLO I 2022\PROGRAMACION II\Semana 5 ---- PARCIAL I ----\Martes 22\Parcial Complete\Parcial1PorgraII\Parcial1PorgraII\bin\Debug\Parcial1PorgraII.pdb
+C:\Users\PC\Documents\CICLO I 2022\PROGRAMACION II\Semana 5 ---- PARCIAL I ----\Martes 22\Parcial Complete\Parcial1PorgraII\Parcial1PorgraII\obj\Debug\Parcial1PorgraII.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\CICLO I 2022\PROGRAMACION II\Semana 5 ---- PARCIAL I ----\Martes 22\Parcial Complete\Parcial1PorgraII\Parcial1PorgraII\obj\Debug\Parcial1PorgraII.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\Documents\CICLO I 2022\PROGRAMACION II\Semana 5 ---- PARCIAL I ----\Martes 22\Parcial Complete\Parcial1PorgraII\Parcial1PorgraII\obj\Debug\Parcial1PorgraII.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\CICLO I 2022\PROGRAMACION II\Semana 5 ---- PARCIAL I ----\Martes 22\Parcial Complete\Parcial1PorgraII\Parcial1PorgraII\obj\Debug\Parcial1PorgraII.exe
+C:\Users\PC\Documents\CICLO I 2022\PROGRAMACION II\Semana 5 ---- PARCIAL I ----\Martes 22\Parcial Complete\Parcial1PorgraII\Parcial1PorgraII\obj\Debug\Parcial1PorgraII.pdb
+C:\Users\PC\GitHub\Parcial1PorgraII\Parcial1PorgraII\bin\Debug\Parcial1PorgraII.exe.config
+C:\Users\PC\GitHub\Parcial1PorgraII\Parcial1PorgraII\bin\Debug\Parcial1PorgraII.exe
+C:\Users\PC\GitHub\Parcial1PorgraII\Parcial1PorgraII\bin\Debug\Parcial1PorgraII.pdb
+C:\Users\PC\GitHub\Parcial1PorgraII\Parcial1PorgraII\obj\Debug\Parcial1PorgraII.csproj.AssemblyReference.cache
+C:\Users\PC\GitHub\Parcial1PorgraII\Parcial1PorgraII\obj\Debug\Parcial1PorgraII.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\GitHub\Parcial1PorgraII\Parcial1PorgraII\obj\Debug\Parcial1PorgraII.csproj.CoreCompileInputs.cache
+C:\Users\PC\GitHub\Parcial1PorgraII\Parcial1PorgraII\obj\Debug\Parcial1PorgraII.exe
+C:\Users\PC\GitHub\Parcial1PorgraII\Parcial1PorgraII\obj\Debug\Parcial1PorgraII.pdb
